@@ -1,0 +1,18 @@
+body{
+    margin: 20px;
+    padding: 20px;
+}
+
+.brand-col{
+    display: flex;
+    align-items: center;
+}
+
+.brand-row{
+    padding: 10px;
+}
+
+.brand-row img{
+    height: 350px;
+    width: 300px;
+}
